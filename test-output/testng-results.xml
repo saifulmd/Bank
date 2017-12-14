@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="15952" started-at="2017-12-08T02:55:54Z" finished-at="2017-12-08T02:56:10Z">
+  <suite name="Default suite" duration-ms="9652" started-at="2017-12-14T01:40:52Z" finished-at="2017-12-14T01:41:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="15952" started-at="2017-12-08T02:55:54Z" finished-at="2017-12-08T02:56:10Z">
-      <class name="BankAcc">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:BankAcc@7085bdee]" name="setUp" is-config="true" duration-ms="2915" started-at="2017-12-07T21:55:54Z" finished-at="2017-12-07T21:55:57Z">
+    <test name="Default test" duration-ms="9652" started-at="2017-12-14T01:40:52Z" finished-at="2017-12-14T01:41:02Z">
+      <class name="ForGit">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ForGit@7085bdee]" name="setUp" is-config="true" duration-ms="6972" started-at="2017-12-13T20:40:52Z" finished-at="2017-12-13T20:40:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="Test()[pri:0, instance:BankAcc@7085bdee]" name="Test" duration-ms="13017" started-at="2017-12-07T21:55:57Z" finished-at="2017-12-07T21:56:10Z">
+        <test-method status="PASS" signature="Test()[pri:0, instance:ForGit@7085bdee]" name="Test" duration-ms="2666" started-at="2017-12-13T20:40:59Z" finished-at="2017-12-13T20:41:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
-      </class> <!-- BankAcc -->
+      </class> <!-- ForGit -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

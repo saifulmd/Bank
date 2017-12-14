@@ -26,7 +26,6 @@ public class BankAcc {
 	 public void Test() {
 	
 	 driver.get("https://stage-go.wepay.com/getting-started");
-	 
 	 JavascriptExecutor js =(JavascriptExecutor)driver;
 	 js.executeScript("scroll(0,350)");
 	 driver.findElement(By.xpath("//*[@id=\"FirstName\"]")).sendKeys("kamal");
