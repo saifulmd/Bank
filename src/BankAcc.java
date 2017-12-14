@@ -43,6 +43,7 @@ public class BankAcc {
 	 driver.findElement(By.xpath("//*[@id=\"mktoForm_1234\"]/div[15]/span/button")).click();
 	 driver.get("https://go.wepay.com/thank-you");
 	 driver.findElement(By.xpath("//*[@id=\"75\"]/div/div[1]/div/a")).click();
+	 //This is comment
 	 
 		
 	
